@@ -122,10 +122,8 @@ However, this establishes a foundation for future **fully coupled DEM–FEA simu
 ## 📂 Repository Structure
 
 ```
-MTP-Lunar-Regolith-Interaction/
-│
-├── presentation/
-│   └── MTP_Presentation.pdf
+
+── MTP_Presentation.pdf
 │
 └── README.md
 ```
